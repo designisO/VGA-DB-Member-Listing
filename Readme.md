@@ -45,7 +45,6 @@ Styling the "Adding Members" page
 To run, simply type: python -m flask run
 
 
-#### Tutorial : https://www.digitalocean.com/community/tutorials/how-to-use-a-postgresql-database-in-a-flask-application
 
 
 
