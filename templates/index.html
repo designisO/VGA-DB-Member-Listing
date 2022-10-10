@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Adding Visionary Member {% endblock %}</h1>
+    {% for member in members %}
+        <div class='members'>
+            <h1>#{{ member[1] }}</h3>
+			<h3>#{{ member[3] }} {{ member[2] }}}</h3>
+			<h3>#{{ member[4] }}</h3>
+			<h3>#{{ member[2] }}</h3>
+			
+            <i><p>Successfully Added New Member!</p></i>
+        </div>
+    {% endfor %}
+{% endblock %}
