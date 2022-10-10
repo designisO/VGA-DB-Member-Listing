@@ -1,4 +1,4 @@
-# Visionary Genius Academy Memember Listing:
+# Visionary Genius Academy Member Listing:
 
 Connecting Flask with PostgreSQL.
 
